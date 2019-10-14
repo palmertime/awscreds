@@ -1,0 +1,12 @@
+# Ignore all
+*
+
+# Whitelist known files
+!/.gitignore
+!/.python-version
+!/Pipfile
+!/Pipfile.lock
+!/awscreds
+!/awscreds/awscreds.py
+!/README.md
+!/setup.py
